@@ -16,4 +16,5 @@ class Solution:
                     
                     return strs[0][:i]
                     
+  
         return strs[0]
