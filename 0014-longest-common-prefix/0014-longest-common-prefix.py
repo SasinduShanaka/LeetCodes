@@ -16,5 +16,4 @@ class Solution:
                     
                     return strs[0][:i]
                     
-        # If the outer loop finishes without returning, the whole first word is the prefix
         return strs[0]
